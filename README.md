@@ -1,1 +1,2 @@
-# Treasure_-map
+# Treasure_map
+This code locates the treasure at the given coordinates.
